@@ -1,5 +1,4 @@
 - 学习笔记
-
   - [学习笔记-synchronized关键字](learn-notes/学习笔记-synchronized关键字.md)
 
 - 项目搭建
