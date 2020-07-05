@@ -11,5 +11,10 @@
 
 - 设计模式
   - [设计模式-单例模式](desgin-partern/单例模式.md)
+  - [设计模式-策略模式](desgin-partern/策略模式.md)
+  - [设计模式-工厂方法模式](desgin-partern/工厂方法模式.md)
+  - [设计模式-抽象工厂模式](desgin-partern/抽象工厂模式.md)
+  - [设计模式-中介者模式](desgin-partern/中介者模式.md)
+  - [设计模式-门面模式](desgin-partern/门面模式.md)
 
 - 框架学习
